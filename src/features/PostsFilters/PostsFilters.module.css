@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.wrapper__inputs {
+  display: flex;
+  gap: 1rem;
+  flex: 1;
+}

@@ -1,0 +1,16 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: minmax(min-content, 3rem) 1fr;
+  gap: 1rem;
+}
+
+.title {
+  font-size: 1.4rem;
+  font-weight: 500;
+  justify-content: start;
+}
+
+.input {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}

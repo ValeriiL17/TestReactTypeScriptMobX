@@ -1,0 +1,16 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: minmax(min-content, 3rem) 1fr;
+  gap: 1rem;
+}
+
+.title {
+  justify-content: start;
+}
+
+.text_area {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  resize: none;
+  height: 10rem;
+}

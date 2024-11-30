@@ -1,0 +1,1 @@
+export { DetailedPostsInfo } from './DetailedPostsInfo';
